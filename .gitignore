@@ -1,0 +1,19 @@
+# competition data and large artefacts (not redistributable / too large for git)
+dataset/
+output/
+work/
+*.tsv
+*.parquet
+*.zip
+*.npy
+*.pt
+*.bin
+*.safetensors
+fr/
+
+# python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+env/
